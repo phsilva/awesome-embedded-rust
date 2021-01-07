@@ -451,6 +451,7 @@ Crates tailored for specific boards.
 - [`seedstudio-gd32v`](https://github.com/riscv-rust/seedstudio-gd32v) - Board support crate for the [GD32 RISC-V Dev Board](https://www.seeedstudio.com/SeeedStudio-GD32-RISC-V-Dev-Board-p-4302.html)
   ![crates.io](https://img.shields.io/crates/v/seedstudio-gd32v.svg)
   - Contains runnable examples for this board
+- [`wio_terminal`](https://crates.io/crates/wio_terminal) - Board support for the [Seeed Studio Wio Terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/) ![crates.io](https://img.shields.io/crates/v/wio-terminal.svg)
 - [`xiao_m0`](https://crates.io/crates/xiao_m0) - Board support for the [Seeed Studio Seeeduino XIAO](http://wiki.seeedstudio.com/Seeeduino-XIAO/) ![crates.io](https://img.shields.io/crates/v/xiao_m0.svg)
 
 ### SiFive
